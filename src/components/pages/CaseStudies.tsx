@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { Brain, Code, Globe, TrendingUp, Database, Shield } from 'lucide-react';
+import { Brain, Code, TrendingUp } from 'lucide-react';
 
 const CaseStudies: React.FC = () => {
   const caseStudies = [

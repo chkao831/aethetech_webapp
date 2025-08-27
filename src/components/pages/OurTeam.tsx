@@ -8,7 +8,7 @@ import {
   Users, 
   Award, 
   BookOpen, 
-  TrendingUp, 
+ 
   Zap,
   Mail
 } from 'lucide-react';

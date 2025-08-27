@@ -6,7 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Production builds
-dist/
+# dist/  # Commented out to allow dist/ for colleague replication
 build/
 
 # Environment variables
@@ -85,7 +85,7 @@ jspm_packages/
 
 # Gatsby files
 .cache/
-public
+# public  # Commented out to allow public/ for colleague replication
 
 # Storybook build outputs
 .out

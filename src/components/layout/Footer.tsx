@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Mail, ArrowUp, Brain } from 'lucide-react';
+import { Mail, ArrowUp } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Footer: React.FC = () => {
