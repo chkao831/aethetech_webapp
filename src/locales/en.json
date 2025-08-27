@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "about": "About",
+    "caseStudies": "Case Studies",
+    "resource": "Resource",
+    "contact": "Contact Us"
+  },
+  "common": {
+    "learnMore": "Learn More"
+  }
+} 

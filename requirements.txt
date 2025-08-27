@@ -1,0 +1,6 @@
+# Aethetech AI Website - Python Dependencies
+# This file is kept for potential future backend development
+# Currently, this is a pure frontend React application
+
+# Note: No Python dependencies are currently required
+# This file will be updated when backend development begins 
