@@ -6,7 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Production builds
-# dist/  # Commented out to allow dist/ for colleague replication
+dist/
 build/
 
 # Environment variables
